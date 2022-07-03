@@ -1,4 +1,4 @@
-$ git clone .../test_faas
+$ git clone https://github.com/bl4dylion4ik/test_faas.git
 
 $ cd test_faas
 
