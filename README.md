@@ -10,7 +10,7 @@ $ pip install requests
 
 $ deactivate
 
-$ zip -r currency.zip venv __main__.py
+$ zip -r currency.zip venv \__main__.py
 
 $ ibmcloud fn action create get_currency currency.zip --kind python:3.9
 
